@@ -1,5 +1,4 @@
-Welcome to Amos Blog
-王亚娜，你个大骗子，这叫打不开？ you are a lier
+#Welcome to Amos Blog
 
 Load Balancing vSphere Clusters with DRS
 最近，一位客户报告说，DRS无法负载均衡集群。在正常情况下，轻微的不平衡是无关紧要的。这是因为DRS的主要目的不是在每个主机之间完美平衡负载。相反，DRS会监视资源需求，并确保每个虚拟机都能获得资源。当DRS确定VM存在更好的主机时，它会建议移动该VM。
