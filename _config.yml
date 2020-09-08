@@ -4,16 +4,16 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   从事云计算软件定义方向<br/>
   让数据中心隐形<br/>
   Jiaxin<br/>
-  <a href="mailto:i@wu-kan.cn">
+  <a href="mailto:">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/amosfeng">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK">
+  <a href="https://codeforces.com/profile/fringe.icu">
     <i class="fas fa-chart-bar"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
+  <a href="https://vjudge.net/user/fringe.icu">
     <i class="fas fa-smile"></i>
   </a>
   <a href="https://www.zhihu.com/people/wu.kan/activities">
@@ -61,12 +61,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://i.loli.net/2020/09/08/6rqRFumYXwy5Sgc.png=320"
+                href="https://i.loli.net/2020/09/08/6rqRFumYXwy5Sgc.png"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://i.loli.net/2020/09/08/6rqRFumYXwy5Sgc.png=32"
+                href="https://i.loli.net/2020/09/08/6rqRFumYXwy5Sgc.png"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
