@@ -1,9 +1,9 @@
 title: fringe.icu # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  云计算高级工程师<br/>
+  要成为云计算架构师的男人<br/>
   从事云计算软件定义方向<br/>
   让数据中心隐形<br/>
-  Jiaxin<br/>
+  冯冯冯大人<br/>
   <a href="mailto:">
     <i class="fas fa-envelope"></i>
   </a>
@@ -406,23 +406,16 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     async='async'
                   ></script>
                 </div>
-              - | # 觉得我的主题好用的话，让更多的人知道它吧！
-                <div>
-                  <i class="fas fa-thumbs-up fa-fw"></i>
-                  <a href="https://jekyll-theme-WuK.wu-kan.cn">
-                    jekyll-theme-WuK
-                  </a>
-                </div>
               - | # Copyright声明
                 <div>
                   <i class="fas fa-copyright fa-fw"></i>
-                  2017-2020 WuK
+                  2017-2020 FFFDR
                 </div>
               - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
                 <div>
                   <i class="fas fa-info-circle fa-fw"></i>
                   <a href="http://beian.miit.gov.cn">
-                    粤ICP备 20024947号
+                    粤ICP备 20204777号
                   </a>
                 </div>
               - | # 公安网备信息
@@ -558,8 +551,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               onload='
                 new Valine({
                   "el": document.getElementsByClassName("v")[0],
-                  "appId": "9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz",
-                  "appKey": "NJ7RwmgrxsF7KDzlqU7YewlL",
+                  "appId": "drBdsxijhD9sfpU1tuqmTkit-gzGzoHsz",
+                  "appKey": "aBe7t1O7eCxLCrR1891IrORS",
                   "placeholder": "在这里评论吧！填写邮箱可以获得 Gravatar 头像和回复通知哦",
                   "requiredFields": ["nick","mail"],
                   "visitor": true,
@@ -627,9 +620,9 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var myname = "WuK";
                 var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
                 var multilingual = true;
-                var myname_hans = "吴坎";
-                var myname_hant = "吴坎";
-                var myname_eng = "WuK";
+                var myname_hans = "冯冯冯大人";
+                var myname_hant = "冯冯冯大人";
+                var myname_eng = "冯冯冯大人";
                 var title = "选择你的支付方式";
                 var subtitle = "跟随进一步的指示以向" + myname + "付款";
                 var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
