@@ -1,7 +1,7 @@
 ---
 title: fringe.icu
 tags:
-  - 程序设计
+  - 序
 ---
 Load Balancing vSphere Clusters with DRS
 最近，一位客户报告说，DRS无法负载均衡集群。在正常情况下，轻微的不平衡是无关紧要的。这是因为DRS的主要目的不是在每个主机之间完美平衡负载。相反，DRS会监视资源需求，并确保每个虚拟机都能获得资源。当DRS确定VM存在更好的主机时，它会建议移动该VM。
@@ -38,7 +38,7 @@ Load Balancing vSphere Clusters with DRS
 迁移阈值= 4 | 这是获得更好的负载平衡的第一步。这将导致优先级4的建议迁移到其他主机，以获得更高的负载平衡水平。 PercentIdleMBInMemDemand = 50 | 这将指示DRS在为主机负载生成计算时确定空闲内存的两倍。这将使用更接近于vSphere Web Client中显示的值的值，并导致生成更高优先级的建议。上述两种设置的组合将会产生更多的建议。这将导致主机的平衡。 AggressiveCPUActive = 1 | 当在CPU尖锐的环境中使用，否则可能会丢失。如果您在虚拟机中看到更多的准备时间，并且DRS未生成建议，则此设置可以提高这些类型工作负载的DRS有效性。 如果您选择不更改DRS的任何默认设置，那么您可以放心，DRS仍然在幕后工作，以确保所有VM都获得了他们所拥有的资源。
 
 关于作者
-Amos是一名高级技术营销架构师，致力于软件定义数据中心技术，专门从事VMware vSphere云平台产品和服务。他以前的经验包括在VMware的云基础架构和管理专业服务组织中担任架构师，他在VMware的财富100客户项目中进行了磋商。Amos拥有许多行业认证，包括VMware认证专家（VCP＃69），Nutanix超融合认证专家（NPP #70）。
+冯冯冯大人是一名高级技术营销架构师，致力于软件定义数据中心技术，专门从事VMware vSphere云平台产品和服务。他以前的经验包括在VMware的云基础架构和管理专业服务组织中担任架构师，他在VMware的财富100客户项目中进行了磋商。Amos拥有许多行业认证，包括VMware认证专家（VCP＃69），Nutanix超融合认证专家（NPP #70）。
 
 Support or Contact
 amosfeng@hotmail.com
