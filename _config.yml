@@ -235,8 +235,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 href: /
               - title: '<i class="fas fa-tags fa-fw"></i> 标签'
                 href: /tags/
-              - title: '<i class="fas fa-technology fa-fw"></i> 技术'
-                href: /technology/
               - title: '<i class="fas fa-archive fa-fw"></i> 归档'
                 href: /archive/
               - title: '<i class="fas fa-comments fa-fw"></i> 留言'
