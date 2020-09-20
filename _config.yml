@@ -618,7 +618,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
              <script>
                 var usage = "payment";
                 var wechat = "wxp://f2f0HQWsDpGrm87WZGowFBbA9Z7BUoLGEedb";
-                var tenpay = "";
+                var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&a=1&u=4988775&ac=CAEQ576wAhjZ8Zv7BQ%3D%3D_xxx_sign&n=______Fringe&f=wallet";
                 var alipay = "https://qr.alipay.com/fkx19740req0oldg5xgs168";
                 var paypal = "";
                 var myname = "冯冯冯大人";
