@@ -289,7 +289,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   }
                 </style>
             append_to_sidebar:
-              #- <script defer="defer" src="https://cdn.jsdelivr.net/gh/poole/lanyon@v1.1.0/public/js/script.min.js"></script> # 点击空白处而非按钮从而关闭侧边栏的插件，可选
+              - <script defer="defer" src="https://cdn.jsdelivr.net/gh/poole/lanyon@v1.1.0/public/js/script.min.js"></script> # 点击空白处而非按钮从而关闭侧边栏的插件，可选
               - | #修复点击侧边栏按钮回到顶部的问题
                 <style>
                   .sidebar-checkbox {
