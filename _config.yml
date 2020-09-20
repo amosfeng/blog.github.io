@@ -233,17 +233,17 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               enable: true
               img: https://s.gravatar.com/avatar/8225d3162b2bbe31fc2cfb03c37fe0f1?s=320 # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
-              - title: '<i class="fas fa-home fa-fw"></i> 首页'
+              - title: '<i class="fas fa-home fa-fw"></i> 我是首页'
                 href: /
-              - title: '<i class="fas fa-lives fa-fw"></i> 活着'
+              - title: '<i class="fas fa-lives fa-fw"></i> 实验人生'
                 href: /lives/
-              - title: '<i class="fas fa-tags fa-fw"></i> 标签'
+              - title: '<i class="fas fa-tags fa-fw"></i> 分类标签'
                 href: /tags/
-              - title: '<i class="fas fa-archive fa-fw"></i> 归档'
+              - title: '<i class="fas fa-archive fa-fw"></i> 文章归档'
                 href: /archive/
-              - title: '<i class="fas fa-comments fa-fw"></i> 留言'
+              - title: '<i class="fas fa-comments fa-fw"></i> 你的留言'
                 href: /comments/
-              - title: '<i class="fas fa-coffee fa-fw"></i> 打赏'
+              - title: '<i class="fas fa-coffee fa-fw"></i> 一定打赏'
                 href: /merger/
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: true
@@ -620,7 +620,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var wechat = "wxp://f2f0HQWsDpGrm87WZGowFBbA9Z7BUoLGEedb";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&a=1&u=4988775&ac=CAEQ576wAhjZ8Zv7BQ%3D%3D_xxx_sign&n=______Fringe&f=wallet";
                 var alipay = "https://qr.alipay.com/fkx19740req0oldg5xgs168";
-                var paypal = "https://paypal.me/fringeicu";
+                var paypal = "";
                 var myname = "冯冯冯大人";
                 var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
                 var multilingual = true;
