@@ -235,7 +235,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
-              - title: '<i class="fas fa-lives fa-fw"></i> 生活'
+              - title: '<i class="fas fa-lives fa-fw"></i> 活着'
                 href: /lives/
               - title: '<i class="fas fa-tags fa-fw"></i> 标签'
                 href: /tags/
@@ -595,13 +595,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               rel="license">
               CC BY 4.0
             </a>
-            （除特别声明或转载文章外）
-        lives:
-          pie_chart: # 显示一个标签的饼状统计图，需要引入 mermaid
-            enable: false
-          count: true # 统计每个标签下文章的数量
-          toc: # 在正文里显示一个标签的目录
-            enable: false    
+            （除特别声明或转载文章外）  
         tags:
           pie_chart: # 显示一个标签的饼状统计图，需要引入 mermaid
             enable: false
@@ -623,12 +617,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
               <script>
                 var usage = "payment";
-                var wechat = "wxp://f2f0BhUoIC_9gex7-tC2PRvVuoA486mK5WyC";
-                var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ77zFwQMY-6u57gU%3D_xxx_sign&u=942759535&n=%E8%94%9A";
-                var alipay = "https://i.loli.net/2020/09/20/fNM5TU3tbgdPQnO.jpg;
-                #var paypal = "https://paypal.me/wukan0621";
+                var wechat = "wxp://f2f0HQWsDpGrm87WZGowFBbA9Z7BUoLGEedb";
+                #var tenpay = "";
+                var alipay = "https://qr.alipay.com/fkx19740req0oldg5xgs168;
+                var paypal = "";
                 var myname = "冯冯冯大人";
-                var profile = "https://s.gravatar.com/avatar/8225d3162b2bbe31fc2cfb03c37fe0f1?s=320";
+                var profile = "https://i.loli.net/2020/09/20/pF4mz8BZwcYkyRA.png";
                 var multilingual = true;
                 var myname_hans = "冯冯冯大人";
                 var myname_hant = "冯冯冯大人";
