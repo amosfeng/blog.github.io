@@ -620,7 +620,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var wechat = "wxp://f2f0HQWsDpGrm87WZGowFBbA9Z7BUoLGEedb";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&a=1&u=4988775&ac=CAEQ576wAhjZ8Zv7BQ%3D%3D_xxx_sign&n=______Fringe&f=wallet";
                 var alipay = "https://qr.alipay.com/fkx19740req0oldg5xgs168";
-                var paypal = "";
+                var paypal = "https://paypal.me/fringeicu";
                 var myname = "冯冯冯大人";
                 var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
                 var multilingual = true;
