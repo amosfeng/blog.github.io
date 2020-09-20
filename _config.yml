@@ -61,7 +61,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://https://s.gravatar.com/avatar/8225d3162b2bbe31fc2cfb03c37fe0f1?s=320"
+                href="https://s.gravatar.com/avatar/8225d3162b2bbe31fc2cfb03c37fe0f1?s=320"
               />
               <link
                 rel="shortcut
@@ -629,7 +629,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var paypal = "https://paypal.me/wukan0621";
                 var myname = "冯冯冯大人";
                 #var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
-                var profile = "https://i.loli.net/2020/09/20/4Q2pxLryV5jPcNG.png?s=320";
+                var profile = "https://s.gravatar.com/avatar/8225d3162b2bbe31fc2cfb03c37fe0f1?s=320";
                 var multilingual = true;
                 var myname_hans = "冯冯冯大人";
                 var myname_hant = "冯冯冯大人";
