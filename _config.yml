@@ -618,15 +618,14 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <script>
                 var usage = "payment";
                 var wechat = "wxp://f2f0HQWsDpGrm87WZGowFBbA9Z7BUoLGEedb";
-                #var tenpay = "";
                 var alipay = "https://qr.alipay.com/fkx19740req0oldg5xgs168;
                 var paypal = "";
                 var myname = "冯冯冯大人";
                 var profile = "https://i.loli.net/2020/09/20/pF4mz8BZwcYkyRA.png";
                 var multilingual = true;
                 var myname_hans = "冯冯冯大人";
-                var myname_hant = "冯冯冯大人";
-                var myname_eng = "冯冯冯大人";
+                var myname_hant = "馮馮馮大人";
+                var myname_eng = "Feng Big Big Big Feng";
                 var title = "选择你的支付方式";
                 var subtitle = "跟随进一步的指示以向" + myname + "付款";
                 var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
