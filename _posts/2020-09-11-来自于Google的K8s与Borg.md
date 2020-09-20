@@ -1,5 +1,5 @@
 ---
-title: 来自于Googled的K8s与Borg
+title: 来自于Google的K8s与Borg
 tags:
   - Cloud Native Tec
 ---
