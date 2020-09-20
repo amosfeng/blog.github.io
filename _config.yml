@@ -233,7 +233,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
-              - title: '<i class="fas fa-comments fa-fw"></i> 生活'
+              - title: '<i class="fas fa-lives fa-fw"></i> 生活'
                 href: /lives/
               - title: '<i class="fas fa-tags fa-fw"></i> 标签'
                 href: /tags/
@@ -594,6 +594,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               CC BY 4.0
             </a>
             （除特别声明或转载文章外）
+        lives:
+          pie_chart: # 显示一个标签的饼状统计图，需要引入 mermaid
+            enable: false
+          count: true # 统计每个标签下文章的数量
+          toc: # 在正文里显示一个标签的目录
+            enable: false    
         tags:
           pie_chart: # 显示一个标签的饼状统计图，需要引入 mermaid
             enable: false
