@@ -1,4 +1,7 @@
-
+---
+layout: Cloud Native Tec
+title: 来自于Googled的K8s与Borg
+---
 摘要
 谷歌的Borg系统群集管理器运行几十万个以上的jobs，来自几千个不同的应用，横跨了多个集群，这些每个集群有上万台机器。
 
